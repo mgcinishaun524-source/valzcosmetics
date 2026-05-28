@@ -1,0 +1,6 @@
+{
+  "name": "Valz Cosmetics",
+  "description": "Premium e-commerce landing page for Valz Cosmetics, showcasing luxury skincare and beauty collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
